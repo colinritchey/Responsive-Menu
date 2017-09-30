@@ -1,6 +1,6 @@
 # Responsive Menu Exercise
 
-LIVE
+[LIVE](https://colinritchey.github.io/Responsive-Menu/)
 
 This is a simple html and css exercise that displays a horizontal menu with two submenus.
 
